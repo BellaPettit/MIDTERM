@@ -2,17 +2,17 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/surprise-party/
+            http://localhost:8000/trick-or-treating/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/outdoor-adventure/
+            http://localhost:8000/dangers-of-halloween/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/destination-birthday/
+            http://localhost:8000/best-candy/
         </loc>
     </url>
     <url>
