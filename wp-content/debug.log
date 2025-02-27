@@ -1,0 +1,6 @@
+[27-Feb-2025 00:18:05 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 8192 bytes) in /workspaces/MIDTERM/.wordpress/wp-includes/class-wp-theme-json-resolver.php on line 768
+[27-Feb-2025 00:18:14 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 233472 bytes) in /workspaces/MIDTERM/.wordpress/wp-content/mu-plugins/sqlite-database-integration/wp-includes/sqlite/class-wp-sqlite-translator.php on line 1552
+[27-Feb-2025 00:18:50 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 16384 bytes) in /workspaces/MIDTERM/.wordpress/wp-includes/class-wp-theme-json.php on line 1004
+[27-Feb-2025 00:18:52 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 16384 bytes) in /workspaces/MIDTERM/.wordpress/wp-includes/class-wp-theme-json.php on line 1004
+[27-Feb-2025 00:18:54 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 20480 bytes) in /workspaces/MIDTERM/.wordpress/wp-admin/includes/update.php on line 1012
+[27-Feb-2025 00:18:54 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 20480 bytes) in /workspaces/MIDTERM/.wordpress/wp-includes/class-wp-fatal-error-handler.php on line 196
